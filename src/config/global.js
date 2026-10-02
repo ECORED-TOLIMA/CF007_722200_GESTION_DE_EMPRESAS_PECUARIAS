@@ -347,8 +347,7 @@ export default {
     {
       referencia:
         'Mejía, S., G., Ruiz, B., J. D., Correa, J., D., y Londoño, G., J. M. (2015). Compostaje de mortalidad como alternativa para el manejo del cadáver y el residuo del equino en el Centro de Veterinaria y Zootecnia CES. CES. ',
-      link:
-        'http://repository.ces.edu.co/bitstream/10946/1879/1/Compostaje_mortalidad.pdf',
+      link: 'https://hdl.handle.net/10946/1879',
     },
     {
       referencia:
